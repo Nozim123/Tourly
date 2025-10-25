@@ -40,7 +40,7 @@ $ git remote add origin https://github.com/Nozim123/Tourly.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter]().
+If you want to contact with me you can reach me at [Telegram](@Ruziyev_Nozim).
 
 ### License
 
