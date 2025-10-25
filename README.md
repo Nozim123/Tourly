@@ -16,10 +16,6 @@
 
 <br />
 
-### Demo Screeshots
-
-![Tourly Desktop Demo](https://tourly-beryl.vercel.app/)
-
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
