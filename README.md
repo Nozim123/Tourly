@@ -9,7 +9,7 @@
 
   Tourly is fully responsive travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/tourly/"><strong>➥ Live Demo</strong></a>
+  <a href="https://tourly-beryl.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ### Demo Screeshots
 
-![Tourly Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Tourly Desktop Demo](https://tourly-beryl.vercel.app/)
 
 ### Prerequisites
 
