@@ -16,21 +16,11 @@
 
 <br />
 
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
 * [Git](https://github.com/Nozim123) must be installed on your operating system.
 
 ### Run Locally
 
 To run **Tourly** locally, run this command on your git bash:
-
-Linux and macOS:
-
-```bash
-$ git remote add origin https://github.com/Nozim123/Tourly.git
-```
 
 Windows:
 
