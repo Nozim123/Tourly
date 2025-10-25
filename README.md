@@ -3,7 +3,8 @@
   <br />
   <br />
   
-  <img src="./readme-images/project-logo.png" />
+  <img width="1322" height="620" alt="image" src="https://github.com/user-attachments/assets/21bc90ed-2fc6-42e3-aa85-f937522cfb9a" />
+
 
   <h2 align="center">Tourly - Travel website</h2>
 
